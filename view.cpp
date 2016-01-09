@@ -392,18 +392,3 @@ void CPresView::OnMouseMove(UINT nFlags, CPoint point)
 	
 	CScrollView::OnMouseMove(nFlags, point);
 }
-
-
-/******************************************************************************
-
-	Function:
-
-	Action:
-
-	Params:
-
-	Returns:
-
-	Comments:
-
-******************************************************************************/
