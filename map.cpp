@@ -431,18 +431,3 @@ void CWorldMap::SetBackground( BYTE nBackground, CPoint *pptLog )
 	m_rUpdate.left = m_rUpdate.right = ptDev.x;
 	m_rUpdate.bottom = m_rUpdate.top = ptDev.y;
 }
-
-
-/******************************************************************************
-
-	Function:	
-
-	Action:		
-
-	Params:		
-
-	Returns:
-
-	Comments:
-
-******************************************************************************/
